@@ -1,2 +1,4 @@
 # Modulo_1G93
-Pagina principal, portafolio y pendiente el CV
+Se actualizan los archivos de página principal y complementarias: 
+Curriculum de desafio 1
+Portafolio
