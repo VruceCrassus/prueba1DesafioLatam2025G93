@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/7988148b-eba5-44ad-b537-e8293cea9930)# Modulo_1G93
 Se actualizan los archivos de página principal y complementarias: 
 Curriculum de desafio 1
 Portafolio
