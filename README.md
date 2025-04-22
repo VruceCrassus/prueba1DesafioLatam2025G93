@@ -6,3 +6,7 @@ Se hace fork al proyecto de Nicolas (https://github.com/Nico-Perry-1990/desafio-
 Repositorio: https://github.com/VruceCrassus/desafio-final
 Cambio en archivo index.html
 ![image](https://github.com/user-attachments/assets/3f36f3fb-3493-46fa-90b4-68ac5e56e1f9)
+
+
+Pryoecto pagina web curriculum landing page
+https://vrucecrassus.github.io/prueba1DesafioLatam2025G93/
